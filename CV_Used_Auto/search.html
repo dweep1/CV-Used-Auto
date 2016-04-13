@@ -27,7 +27,7 @@
       <div id="menu_items">
 	    <ul id="menu">
           <li><a href="index.html">Home</a></li>
-          <li><a href="used_cars.html">Used Cars</a></li>
+          <li><a href="inventory.html">Inventory</a></li>
           <li class="current"><a href="search.html">Search</a></li>
           <li><a href="login.html">Login</a></li>
           <li><a href="contact.html">Contact Us</a></li>
@@ -62,20 +62,62 @@
         <div class="content_item">
             <h2>Search</h2>
             <b>Select a Make:</b><br>
-                <select name="Make">
-                <option selected> Audi
-                <option> Chevy
-                <option> Dodge
-                <option> Ford
-                <option> GMC
-                <option> Honda
-                <option> Mazda
-                <option> Mitsubishi
-                <option> Nissan
-                <option> Toyota
-                <option> Volkswagen
+                <select id="makeSel" name="Make" size="4" multiple>
+                    <option selected value="audi"> Audi </option>
+                    <option value="chevy"> Chevy </option>
+                    <option value="dodge"> Dodge </option>
+                    <option value="ford"> Ford </option>
+                    <option value="gmc"> GMC </option>
+                    <option value="honda"> Honda </option>
+                    <option value="mazda"> Mazda </option>
+                    <option value="mitsubishi"> Mitsubishi </option>
+                    <option value="nissan"> Nissan </option>
+                    <option value="toyota"> Toyota </option>
+                    <option value="volkswagen"> Volkswagen </option>
                 </select>
-            
+                <input type="button" id="buttonSel" value="Select" />
+                <br><b id="model"></b><br>
+                <select id="modelSel" name="Model" size="4" multiple>
+                    <option selected value="model1" id="model1"></option>
+                    <option value="model2" id="model2"></option>
+                    <option value="model3" id="model3"></option>
+                    <option value="model4" id="model4"></option>
+                    <option value="model5" id="model5"></option>
+                <script>
+                    var sel = document.getElementById('makeSel');
+                    var opt;
+                    //var el = document.getElementById('display');
+                    for (var i = 0, len = sel.options.length; i < len; i++)
+                    {
+                        opt = sel.options[i];
+                        if (opt.selected === true)
+                        {
+                            //document.write(opt.value);
+                        }
+                    }
+                    document.getElementById('buttonSel').onclick = function()
+                    {
+                        var el = sel.options[sel.selectedIndex].text;
+                        if (el === "Audi")
+                        {
+                            document.getElementById("model").innerHTML = "Select a Model:";
+                            document.getElementById("model1").innerHTML = "A4";
+                            document.getElementById("model2").innerHTML = "A5";
+                            document.getElementById("model3").innerHTML = "R8";
+                            document.getElementById("model4").innerHTML = "";
+                            document.getElementById("model5").innerHTML = "";
+                        }
+                        if (el === "Chevy")
+                        {
+                            document.getElementById("model").innerHTML = "Select a Model:";
+                            document.getElementById("model1").innerHTML = "Camaro";
+                            document.getElementById("model2").innerHTML = "Corvette";
+                            document.getElementById("model3").innerHTML = "Impala";
+                            document.getElementById("model4").innerHTML = "Silverado";
+                            document.getElementById("model5").innerHTML = "Tahoe";
+                        }
+                    }
+                </script>
                       
 	</div><!--close content_item-->
       </div><!--close content-->   
