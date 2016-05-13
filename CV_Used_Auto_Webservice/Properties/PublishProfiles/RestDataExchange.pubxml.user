@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Debug</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>08/23/2013 13:51:14</publishTime>
+    </File>
+    <File Include="bin/RestDataExchange.dll">
+      <publishTime>09/17/2013 15:44:24</publishTime>
+    </File>
+    <File Include="bin/RestDataExchange.pdb">
+      <publishTime>09/17/2013 15:44:24</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Common.dll">
+      <publishTime>08/23/2013 13:51:14</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.dll">
+      <publishTime>08/23/2013 13:51:14</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Interfaces.dll">
+      <publishTime>08/23/2013 13:51:14</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.OrmLite.dll">
+      <publishTime>08/23/2013 13:51:14</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.OrmLite.pdb">
+      <publishTime>08/23/2013 13:51:14</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.OrmLite.SqlServer.dll">
+      <publishTime>08/23/2013 13:51:14</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.OrmLite.SqlServer.pdb">
+      <publishTime>08/23/2013 13:51:14</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Redis.dll">
+      <publishTime>08/23/2013 13:51:14</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.ServiceInterface.dll">
+      <publishTime>08/23/2013 13:51:14</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Text.dll">
+      <publishTime>08/23/2013 13:51:14</publishTime>
+    </File>
+    <File Include="bin/WebActivator.dll">
+      <publishTime>08/23/2013 13:51:14</publishTime>
+    </File>
+    <File Include="bin/WebApplication2.dll">
+      <publishTime>09/04/2013 09:56:57</publishTime>
+    </File>
+    <File Include="bin/WebApplication2.pdb">
+      <publishTime>09/04/2013 09:56:57</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/23/2013 13:51:21</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/06/2013 16:20:25</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

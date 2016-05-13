@@ -10,7 +10,7 @@
   <script type="text/javascript" src="js/jquery.min.js"></script>
   <script type="text/javascript" src="js/jquery.easing.min.js"></script>
   <script type="text/javascript" src="js/jquery.nivo.slider.pack.js"></script>
-  <script type="text/javascript">
+  <script type="text/javascript" src="js/Main.js"></script>
     $(window).load(function() {
         $('#slider').nivoSlider();
     });
@@ -23,6 +23,7 @@
 	<div id="menubar">
 	  <div id="welcome">
 	    <h1><a href="#">CV Used Autos</a></h1>
+             
 	  </div><!--close welcome-->
       <div id="menu_items">
 	    <ul id="menu">
@@ -30,8 +31,10 @@
           <li class="current"><a href="used_cars.html">Used Cars</a></li>
           <li><a href="search.html">Search</a></li>
           <li><a href="login.html">Login</a></li>
+           <li><a onclick="javascript:logout();"> Logout </a></li>
           <li><a href="contact.html">Contact Us</a></li>
         </ul>
+          <div id="user" style="display:inline" ></div>
       </div><!--close menu-->
     </div><!--close menubar-->	
     

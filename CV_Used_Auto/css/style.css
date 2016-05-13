@@ -96,7 +96,7 @@ ol li
   
 #menu_items
 { float: right;
-  width: 560px;}
+  width: 700px;}
   
 ul#menu
 { margin:0;
@@ -451,4 +451,27 @@ a.nivo-nextNav {
 .nivo-controlNav a.active {
     background-position: 0 -22px;
 }
- 
+ .contact {
+
+}
+ .makeSel .modelSel{
+width:200px;
+ }
+
+ #inventoryTable tr{
+
+     color:aqua;     
+ }
+
+ #inventoryTable{
+     border:1px solid white;
+ }
+
+ #firstRow{
+     color:white !important;
+     
+     font-weight:bold;
+ }
+ #inventoryTable td{
+     padding-left:5px
+ }

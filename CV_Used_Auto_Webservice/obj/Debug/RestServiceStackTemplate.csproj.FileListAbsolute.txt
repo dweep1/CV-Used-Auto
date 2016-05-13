@@ -1,0 +1,68 @@
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\obj\Debug\RestServiceStackTemplate.csprojResolveAssemblyReference.cache
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\obj\Debug\RestDataExchange.dll
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\bin\RestDataExchange.dll
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\bin\RestDataExchange.pdb
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\bin\ServiceStack.Common.dll
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\bin\ServiceStack.dll
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\bin\ServiceStack.Interfaces.dll
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\bin\ServiceStack.OrmLite.dll
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\bin\ServiceStack.OrmLite.SqlServer.dll
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\bin\ServiceStack.Redis.dll
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\bin\ServiceStack.ServiceInterface.dll
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\bin\ServiceStack.Text.dll
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\bin\WebActivator.dll
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\bin\ServiceStack.xml
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\bin\ServiceStack.Common.xml
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\bin\ServiceStack.Interfaces.xml
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\bin\ServiceStack.OrmLite.pdb
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\bin\ServiceStack.OrmLite.SqlServer.pdb
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\bin\ServiceStack.Redis.xml
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\bin\ServiceStack.Text.xml
+C:\Users\AMartin\Documents\Development\RestDataExchangeTemplate\RestDataExchange\obj\Debug\RestDataExchange.pdb
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\bin\RestDataExchange.dll.config
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\bin\RestDataExchange.dll
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\bin\RestDataExchange.pdb
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\bin\WebActivator.dll
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.xml
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.Common.xml
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.Interfaces.xml
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.OrmLite.pdb
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.OrmLite.SqlServer.pdb
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.Redis.xml
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.Text.xml
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\obj\Debug\RestServiceStackTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\obj\Debug\RestDataExchange.dll
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\obj\Debug\RestDataExchange.pdb
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.Common.dll
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.dll
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.Interfaces.dll
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.OrmLite.dll
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.OrmLite.SqlServer.dll
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.Redis.dll
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.ServiceInterface.dll
+C:\Users\Alexander\Desktop\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.Text.dll
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\bin\RestDataExchange.dll.config
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\bin\RestDataExchange.dll
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\bin\RestDataExchange.pdb
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.Common.dll
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.dll
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.Interfaces.dll
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.OrmLite.dll
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.OrmLite.SqlServer.dll
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.Redis.dll
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.ServiceInterface.dll
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.Text.dll
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\bin\WebActivator.dll
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.xml
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.Common.xml
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.Interfaces.xml
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.OrmLite.pdb
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.OrmLite.SqlServer.pdb
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.Redis.xml
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\bin\ServiceStack.Text.xml
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\obj\Debug\RestServiceStackTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\obj\Debug\RestDataExchange.dll
+C:\Users\Rafael\Desktop\Software Engineering Project\CV_Used_Auto\CV_Used_Auto_Webservice\obj\Debug\RestDataExchange.pdb

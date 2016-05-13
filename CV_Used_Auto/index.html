@@ -10,6 +10,7 @@
   <script type="text/javascript" src="js/jquery.min.js"></script>
   <script type="text/javascript" src="js/jquery.easing.min.js"></script>
   <script type="text/javascript" src="js/jquery.nivo.slider.pack.js"></script>
+  <script type="text/javascript" src="js/Main.js"></script>
   <script type="text/javascript">
     $(window).load(function() {
         $('#slider').nivoSlider();
@@ -31,7 +32,9 @@
           <li><a href="search.html">Search</a></li>
           <li><a href="login.html">Login</a></li>
           <li><a href="contact.html">Contact Us</a></li>
+          <li> <a onclick="javascript:logout();"> Logout </a></li>
         </ul>
+          <div id="user" style="display:inline" ></div>
       </div><!--close menu-->
     </div><!--close menubar-->	
     
@@ -71,7 +74,7 @@
 	 
 	  <div id="content">
         <div class="content_item">
-		  <h1>Welcome To CV Used Auto</h1> 
+		  <h1>Welcome to CV Used Auto</h1> 
 	      <p>Founded in 2016, CV Used Auto has help thousands of people find affordable vehicles. Whether your looking for a car, truck, or SUV, CV Used Auto will help you find what your looking for.</p>	  
 		  <div class="content_container">
 		    <p></p>

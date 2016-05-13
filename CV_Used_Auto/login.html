@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 
 <head>
@@ -10,6 +10,9 @@
   <script type="text/javascript" src="js/jquery.min.js"></script>
   <script type="text/javascript" src="js/jquery.easing.min.js"></script>
   <script type="text/javascript" src="js/jquery.nivo.slider.pack.js"></script>
+  <script type="text/javascript" src="js/Login.js"></script>
+  <script type="text/javascript" src="js/Main.js"></script>
+  <script type="text/javascript" src="js/Database_Access.js"></script>
   <script type="text/javascript">
     $(window).load(function() {
         $('#slider').nivoSlider();
@@ -23,15 +26,19 @@
   	<div id="menubar">
 	  <div id="welcome">
 	    <h1><a href="#">CV Used Auto</a></h1>
+             
 	  </div><!--close welcome-->
       <div id="menu_items">
 	    <ul id="menu">
           <li><a href="index.html">Home</a></li>
           <li><a href="inventory.html">Inventory</a></li>
           <li><a href="search.html">Search</a></li>
-          <li class="current"><a href="login.html">Login</a></li>
-          <li><a href="contact.html">Contact Us</a></li>
+          <li id="menu" class="current"><a href="login.html">Login</a></li>
+         <li><a href="contact.html">Contact Us</a></li>
+          <li><a onclick="javascript:logout();"> Logout </a></li>
+            <li><a href="CreateLogin.html">Create_Login</a></li>
         </ul>
+          <div id="user" style="display:inline" ></div>
       </div><!--close menu-->
     </div><!--close menubar-->	
 	
@@ -61,12 +68,17 @@
       <div id="content">
         <div class="content_item">
           <h2>Login</h2>
-            <div class="form_settings">       
+                   
                 <p>&nbsp;</p>
-			<p><span>Username</span><input class="contact" type="text" name="username" value="" /></p>
-			<p><span>Password</span><input class="contact" type="password" name="password" value="" /></p>
-                        <p style="padding-top: 15px"><span>&nbsp;</span><input class="submit" type="submit" name="contact_submitted" value="Login" /></p>
-            </div><!--close content_container-->
+            <p id="LoginErrorMessage" style="color:red;font-weight:bold"></p>
+			<p><span>Username  </span><input id="username" class="contact" type="text" name="username" value="" /></p>
+			<p><span>Password  </span><input id="password" class="contact" type="password" name="password" value="" /></p>
+                         <!-- <p><span>Reset</span><input class="contact" type="rest" name="reset" value="" /></p>-->
+                         <p style="padding-top: 15px"><span>&nbsp;</span><input class="submit" type="submit" name="contact_submitted" value="Login" onclick="return ValidateLogin()" />  <span><input type="reset" value="Cancel"/></span></p>
+                        <!--<form action="action_page.php" method="get"></form></b> 
+                        <form action="action_page.php" method="post"></form></b>!-->
+                         
+            <!--close content_container-->
 	    </div><!--close content_item-->
       </div><!--close content-->   
 	  
